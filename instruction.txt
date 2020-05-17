@@ -1,0 +1,12 @@
+(1)create database pradise
+(2)Run migration files to create table
+(3)Run php artisan db:seed command to get User,main_dishes,side_dishes,desserts tables initials data 
+(4)now you can see the application (http://127.0.0.1:8000)
+
+admin pannel access
+
+http://127.0.0.1:8000/login
+
+Email = test@test.com 
+Password = 123456
+
